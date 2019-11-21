@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<myspring>
+    <context>
+        <scanner-path>com.wxs.test</scanner-path>
+    </context>
+</myspring>
